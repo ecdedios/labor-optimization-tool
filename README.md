@@ -2,7 +2,7 @@
 
 > Power BI dashboard comparing actual demand versus labor allocation.
 
-![Power BI Dashboard]("screenshots/Screenshot 2024-07-09 204439.jpg")
+![Power BI Dashboard](https://github.com/ecdedios/labor-optimization-tool/blob/main/screenshots/Screenshot%202024-07-09%20204439.jpg)
 
 ## Usage
 
