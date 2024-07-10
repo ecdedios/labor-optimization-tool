@@ -2,6 +2,8 @@
 
 > Power BI dashboard comparing actual demand versus labor allocation.
 
+![Power BI Dashboard](screenshots/Screenshot 2024-07-09 204439.jpg)
+
 ## Usage
 
 Some technologies used:
