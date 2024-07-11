@@ -4,6 +4,8 @@
 
 ![Power BI Dashboard](https://github.com/ecdedios/labor-optimization-tool/blob/main/screenshots/Screenshot%202024-07-09%20204439.jpg)
 
+[Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc1N2YwZTItYzE3YS00OTVjLWIyMGEtM2UwMThhZTNmNTE1IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
+
 ## Usage
 
 Some technologies used:
